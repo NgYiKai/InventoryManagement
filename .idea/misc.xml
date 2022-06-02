@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-anydpi-v24/ic_stat_test.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-anydpi/ic_action_home.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-anydpi/ic_action_import.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-anydpi/ic_action_items.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-hdpi/background_color.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-hdpi/buttonss.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-hdpi/edit.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-hdpi/name.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-hdpi/password.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout-w936dp/activity_login.xml" value="0.22370218579234974" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_add_item.xml" value="0.2966485507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_add_item_inventory.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_inout.xml" value="0.2966485507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_items.xml" value="0.2966485507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_login.xml" value="0.2966485507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_main.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_splash_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_view_item.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_view_item_inventory.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/activity_view_transaction.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/content_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/fragment_add_item.xml" value="0.2893258426966292" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/fragment_first.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/fragment_home.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/item_in_inventory.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/layout/transaction.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InventoryManagement/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddItem">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".AddItem">
+
+        <!--EditText for adding employee name-->
+        <EditText
+            android:id="@+id/idEdtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:hint="Enter Item's Name"
+            android:importantForAutofill="no"
+            android:inputType="text" />
+
+        <!--EditText for adding employee phone-->
+        <EditText
+            android:id="@+id/idEdtDetails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/idEdtName"
+            android:layout_margin="10dp"
+            android:hint="Enter details"
+            android:importantForAutofill="no"
+            android:inputType="text" />
+
+        <!--EditText for adding employee address-->
+        <EditText
+            android:id="@+id/idEdtPrice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/idEdtDetails"
+            android:layout_margin="10dp"
+            android:hint="Enter price"
+            android:inputType="numberDecimal" />
+
+
+        <Button
+            android:id="@+id/idBtnSendData"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/idEdtPrice"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/buttonss"
+            android:padding="4dp"
+            android:text="Add item"
+            android:textAllCaps="false"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp" />
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottomNavigationView"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_alignParentBottom="true"
+            app:menu="@menu/bottom_navigation_menu"/>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
